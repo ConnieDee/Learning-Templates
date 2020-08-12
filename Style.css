@@ -1,0 +1,17 @@
+<!doctype css>
+<!--This a guide-->
+ body {background-color: white;
+    margin-left: 10px;}
+    h1 {color: plum;}
+    h2 {font-family: Calibri;}
+    h3 {
+        color: teal;
+        font-size: 30px;
+        text-align: center;
+        }
+    #portfolio {
+        font-weight: 900;
+        border-radius: 45px;
+        }
+    .portfolio-pictures {position: absolute;}
+    h4 {color: crimson;}
